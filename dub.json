@@ -1,0 +1,25 @@
+{
+	"authors": [
+		"catix"
+	],
+	"copyright": "Copyright © 2024, catix",
+	"dependencies": {
+		"bindbc-bgfx": ">=1.2.0",
+		"bindbc-sdl": "~>1.4.8",
+		"ku-framework": "~>1.0.0",
+	},
+	"description": "Den, a recreation of Kaizen-85 from Event[0]",
+	"license": "proprietary",
+	"name": "conbini-den",
+	
+	"libs": [
+		"stdc++",
+		
+		"SDL2",
+		"SDL2_image",
+		"SDL2_mixer",
+		"bxDebug",
+		"bimgDebug",
+		"bgfxDebug",
+	],
+}

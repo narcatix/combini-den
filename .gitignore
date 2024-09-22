@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/conbini-den
+conbini-den.so
+conbini-den.dylib
+conbini-den.dll
+conbini-den.a
+conbini-den.lib
+conbini-den-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

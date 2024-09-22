@@ -1,0 +1,17 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bindbc-allegro5": "1.0.0",
+		"bindbc-bgfx": "1.4.1+127",
+		"bindbc-common": "0.1.6",
+		"bindbc-freetype": "1.1.1",
+		"bindbc-glfw": "1.0.3",
+		"bindbc-imgui": {"path":"../bindbc-imgui/"},
+		"bindbc-loader": "1.1.5",
+		"bindbc-opengl": "1.0.5",
+		"bindbc-sdl": "1.4.8",
+		"d-metal-binding": "1.0.15",
+		"erupted": "2.1.98+v1.3.248",
+		"ku-framework": "1.0.0"
+	}
+}
